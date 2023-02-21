@@ -13,8 +13,12 @@
 
 ### Configure Git
 
-> git config --global user.name "user-name"
-> git config --global user.email "user-email"
+```
+git config --global user.name "user-name" @github/clipboard-copy-element
+
+```
+git config --global user.email "user-email" @github/clipboard-copy-element
+```
 
 ### Initialize Git
 
