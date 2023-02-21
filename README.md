@@ -11,7 +11,7 @@
 
 ###### Git is a version control system. It helps you keep track of code changes. It is used to collaborate on code.
 
-### Configure Git
+## Configure Git
 
 ```
 git config --global user.name "user-name" @github/clipboard-copy-element
@@ -20,7 +20,7 @@ git config --global user.name "user-name" @github/clipboard-copy-element
 git config --global user.email "user-email" @github/clipboard-copy-element
 ```
 
-### Initialize Git
+## Initialize Git
 
 ```
 git init @github/clipboard-copy-element
