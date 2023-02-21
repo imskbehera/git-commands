@@ -14,14 +14,14 @@
 ## Configure Git
 
 ```
-git config --global user.name "user-name" @github/clipboard-copy-element
+git config --global user.name "user-name"
 ```
 ```
-git config --global user.email "user-email" @github/clipboard-copy-element
+git config --global user.email "user-email"
 ```
 
 ## Initialize Git
 
 ```
-git init @github/clipboard-copy-element
+git init
 ```
