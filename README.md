@@ -2,7 +2,7 @@
 
 ## Basic overview how Git commands work.
 
-* Create a repository (project) into Git hosting tool like **[Bitbucket](https://www.atlassian.com/git#:~:text=Here%20is%20a%20basic%20overview,changes%20to%20your%20main%20branch)**.
+* Create a repository (project) into Git hosting tool like **[GitHub](https://github.com/)** **[Bitbucket](https://www.atlassian.com/)**.
 * Copy or clone the repository to your local machine.
 * Add a file to the local repository and commit.
 * Push the changes to the main branch.
