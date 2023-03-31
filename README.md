@@ -147,3 +147,9 @@ git add --all -- ':!path/to/file1' ':!path/to/file2' ':!path/to/folder1/*'
 ```
 git add -- . ':!path/to/file1' ':!path/to/file2' ':!path/to/folder1/*'
 ```
+
+## Git change branch
+
+```
+git branch -M main
+```
