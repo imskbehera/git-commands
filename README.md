@@ -90,7 +90,25 @@ git help --all / git commit -help
 rm -fr .git
 ```
 
-## Git Check Remote Connection
+## Git Get the current remote path
+
+```
+git remote
+```
+
+## Git Remove the remote path
+
+```
+git remote remove <remote path>
+```
+
+## Git Add the remote origin
+
+```
+git remote add origin <your git repo http path>
+```
+
+## Git Check the current Remote Connection
 
 ```
 git remote -v
