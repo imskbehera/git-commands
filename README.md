@@ -153,3 +153,9 @@ git add -- . ':!path/to/file1' ':!path/to/file2' ':!path/to/folder1/*'
 ```
 git branch -M main
 ```
+
+## Git View Unpushed Git Commits
+
+```
+git log origin/master..HEAD
+```
