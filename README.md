@@ -163,6 +163,9 @@ git log origin/master..HEAD
 ## Remove the file only from the Git repository and not remove it from the filesystem
 
 ```
-git rm --cached file1.txt
-git commit -m "remove file1.txt"
+git rm --cached file.html
+```
+
+```
+git commit -m "remove file.html"
 ```
