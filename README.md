@@ -169,3 +169,10 @@ git rm --cached file.html
 ```
 git commit -m "remove file.html"
 ```
+
+## Remove File From Git Repository Without Deleting It Locally
+
+```
+$ git rm --cached file.php
+rm 'file.php'
+```
