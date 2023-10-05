@@ -177,7 +177,7 @@ $ git rm --cached file.php
 rm 'file.php'
 ```
 
-## Check/Find the Last Push/Commit From Git Repository
+## Check / Find the Last Push / Commit From Git Repository
 
 ```
 git show -p origin/master
